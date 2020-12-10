@@ -2,12 +2,12 @@
 Simple webpage to build tables with the results from an API call.
 
 # Setup
-* Files uploaded to S3 bucket 
-* Permissions set to "Make Public"
+* Upload files to S3 bucket 
+* Set S3 permissions on the bucket to "Make Public"
 
 
 # Overview
-Use JavaScript to call an API and format the results into a clean HTML Bootstrap table the is mobile responsive. 
+Use JavaScript to call an API and format the results into a clean HTML using Bootstrap css to create a table that is mobile responsive. 
 
 # What needs to be added
 * Need to make the page more Dynamic. 
